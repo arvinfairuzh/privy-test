@@ -1,0 +1,16 @@
+{
+    "CONFIG": [
+        {
+            "ENVIRONMENT": "DEVELOPMENT",
+            "PORT": 3000,
+            "APP_NAME": "Development",
+            "DEBUG_MODE": true
+        },
+        {
+            "ENVIRONMENT": "PRODUCTION",
+            "PORT": 4000,
+            "APP_NAME": "Production",
+            "DEBUG_MODE": false
+        }
+    ]
+}
